@@ -1,3 +1,7 @@
+body {
+	margin: 0;
+}
+
 .rc-slider-track {
   background-color: #75A074;
 }
@@ -18,4 +22,8 @@
 .rc-slider-handle:focus {
   border-color: #75A074;
   box-shadow: unset;
+}
+
+.card{
+	border: 0 !important;
 }
